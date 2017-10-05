@@ -1,0 +1,14 @@
+{
+  "LOADING_DATA": "Lade ...",
+  "NAN_TEAMS": "Keine Teams in dieser Liga.",
+  "ERR400": "Bad Request. Ihre Anfrage war falsch formuliert. Wahrscheinlich hat der Wert eines Filters nicht den richtigen Datentyp.",
+  "ERR403": "Restricted Resource. Sie haben versucht auf eine Resource zuzugreifen, die zwar existiert, aber für Sie nicht freigegeben ist.",
+  "ERR404": "Not Found. Sie haben versucht auf eine Resource zuzugreifen, die nicht existiert.",
+  "ERR429": "Too Many Requests. Sie haben die Anzahl der zulässigen Abfragen pro Minute/Tag überschritten, die Ihnen mit Ihrer API version und Ihrem Nutzerstatus zustehen.",
+  "CHECKOUT": "Bitte gehen Sie auf",
+  "MOREINF": "um mehr zu erfahren.",
+  "POS": "Pos.",
+  "TEAM": "Team",
+  "PNTS": "Punkte",
+  "GOALS": "Tore"
+}

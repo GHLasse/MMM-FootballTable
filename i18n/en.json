@@ -1,0 +1,14 @@
+{
+  "LOADING_DATA": "Loading ...",
+  "NAN_TEAMS": "No teams in this league.",
+  "ERR400": "Bad Request. Your request was malformed most likely the value of a Filter was not set according to the Data Type that is expected.",
+  "ERR403": "Restricted Resource. You tried to access a resource that exists, but is not available for you.",
+  "ERR404": "Not Found. You tried to access a resource that doesn’t exist.",
+  "ERR429": "Too Many Requests. You exceeded your allowed requests per minute/day depending on API version and your user status.",
+  "CHECKOUT": "Please check out",
+  "MOREINF": "for more information.",
+  "POS": "Pos.",
+  "TEAM": "Team",
+  "PNTS": "Points",
+  "GOALS": "Goals"
+}

@@ -1,0 +1,41 @@
+
+.MMM-FootballTable td.header {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.MMM-FootballTable td.text {
+  text-align: left;
+  vertical-align: middle;
+}
+.MMM-FootballTable td.number {
+  text-align: right;
+  vertical-align: middle;
+}
+
+
+.MMM-FootballTable img.medal {
+  max-height: 20px;
+  height: 20px;
+}
+
+.MMM-FootballTable img.crest {
+  margin: 5px 0 5px 0;
+  vertical-align: middle;
+  top:50%;
+  max-height: 24px;
+  max-width: 24px;
+  height: 20px;
+}
+
+.MMM-FootballTable img.crest.bw {
+  -webkit-filter: grayscale(100%);
+}
+
+.MMM-FootballTable .error {
+  text-align: left;
+  width: 200px;
+}
+
+
+/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
